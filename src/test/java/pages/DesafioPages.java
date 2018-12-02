@@ -101,7 +101,7 @@ public class DesafioPages {
 		
 //      Olá, tudo bem? Infelizmente não consegui fazer a validação dos campos da nota fiscal, tentei por xpath, css selector, 
 //		e também tentei montar meu proprio xpath utilizando um plug in do chrome chamado xpath helper. 
-//		Estou muito curioso para saber como faz essa validação. 
+//		Estou muito curioso para saber como realizar essa validação. 
 //		Abaixo estão as minhas tentativas.
 		
 //		String validarCustomerDtls = driver.findElement(By.xpath("/h4[text()='Rendezvous Hotel']/following-sibling::div[1]")).getText();
